@@ -1,0 +1,21 @@
+<Files xt_monitor_agenda.php>
+order deny,allow
+Deny from all
+Allow from 127.0.0.1
+</Files>
+
+
+
+## XT_MONITOR  29/08/2007 11:59
+<Files xt_monitor.class_hashes.php>
+ Deny from all 
+ </Files> 
+<Files xt_monitor_param.php>
+ Deny from all 
+ </Files> 
+<Files xt_monitor_param_form.php>
+ Deny from all 
+ </Files> 
+<Files xt_monitor_veriarq.php>
+ Deny from all 
+ </Files> 

@@ -1,0 +1,61 @@
+http://httpd.apache.org/docs/2.2/pt-br/howto/htaccess.html#related
+
+Configurando o Apache
+
+Antes de mais nada, você precisará se certificar que o Apache está configurado para aceitar os arquivos .htaccess como 
+arquivos especiais. 
+Para configurar, você precisará editar o arquivo de configuração do Apache, que é o "httpd.conf".
+Geralmente ele está localizado no diretório "/etc/httpd/conf". 
+Dentro deste arquivo, você encontrará uma ou duas diretrizes mais ou menos desta forma:
+
+AccessFileName .htaccess
+
+<Directory />
+    Options FollowSymLinks
+    AllowOverride None
+</Directory>
+
+ou
+
+<Directory "/var/www/html">
+    Options Indexes FollowSymLinks
+    AllowOverride None
+    Order allow,deny
+    Allow from all
+</Directory>
+
+
+Localizar tags de configuração do diretório raiz do site
+Alterar tag  AllowOverride None  para  AllowOverride All
+
+É possível alterar o nome dos arquivos de configuração de .htaccess  para outro nome, 
+ bastando informa-lo após a tag AccessFileName 
+
+Considerando que está usando .htaccess, o container FilesMatch deve estar configurado como abaixo, 
+para negar acesso à esses arquivos, via browser.
+
+<FilesMatch "^\.ht">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+
+
+Colocar nos parâmetros, se deverá gerar/alterar  .htacess
+O script deverá inserir a diretiva no .htaccess  se ja existir ou criar um novo .
+Isso impedirá a execução do arquivo via browser..
+O script deverá rodar via cron, com user root para poder escrever o .htaccess
+
+
+
+##xt_monitor dd/mm/aaaa hh:mm
+<Files nomedoarquivo.php>
+Deny from all
+</Files>
+
+
+
+
+
+
+

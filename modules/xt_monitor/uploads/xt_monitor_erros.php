@@ -1,0 +1,25 @@
+<?php 
+Em 04/09/07 18:40:15 Erro na sql  select * from xoops_xt_monitor_md_module where md_11_include=1  Erro retornado: Table 'x2016.xoops_xt_monitor_md_module' doesn't exist?><?php 
+Em 04/09/07 18:40:15 Erro na sql  select * from xoops_xt_monitor_md_module where md_11_include=1  Erro retornado: Table 'x2016.xoops_xt_monitor_md_module' doesn't exist?><?php 
+Em 04/09/07 18:40:15 Erro na sql  select * from xoops_xt_monitor_md_module where md_11_include=1  Erro retornado: Table 'x2016.xoops_xt_monitor_md_module' doesn't exist?><?php 
+Em 04/09/07 18:40:15 Erro na sql  select * from xoops_xt_monitor_md_module where md_11_include=1  Erro retornado: Table 'x2016.xoops_xt_monitor_md_module' doesn't exist?><?php 
+Em 04/09/07 18:40:16 Erro na sql  select * from xoops_xt_monitor_md_module where md_11_include=1  Erro retornado: Table 'x2016.xoops_xt_monitor_md_module' doesn't exist?><?php 
+Em 04/09/07 18:40:16 Erro na sql  select * from xoops_xt_monitor_md_module where md_11_include=1  Erro retornado: Table 'x2016.xoops_xt_monitor_md_module' doesn't exist?><?php 
+ 19/11/08 17:56:31 Erro na SQL  select * from i1733936e_xt_monitor_md_module where md_11_include=1  Error: Table '111a.i1733936e_xt_monitor_md_module' doesn't exist?><?php 
+ 19/11/08 17:56:31 Erro na SQL  select * from i1733936e_xt_monitor_md_module where md_11_include=1  Error: Table '111a.i1733936e_xt_monitor_md_module' doesn't exist?><?php 
+ 19/11/08 17:56:31 Erro na SQL  select * from i1733936e_xt_monitor_md_module where md_11_include=1  Error: Table '111a.i1733936e_xt_monitor_md_module' doesn't exist?><?php 
+ 19/11/08 17:56:31 Erro na SQL  select * from i1733936e_xt_monitor_md_module where md_11_include=1  Error: Table '111a.i1733936e_xt_monitor_md_module' doesn't exist?><?php 
+ 19/11/08 17:56:32 Erro na SQL  select * from i1733936e_xt_monitor_md_module where md_11_include=1  Error: Table '111a.i1733936e_xt_monitor_md_module' doesn't exist?><?php 
+ 19/11/08 17:56:33 Erro na SQL  select * from i1733936e_xt_monitor_md_module where md_11_include=1  Error: Table '111a.i1733936e_xt_monitor_md_module' doesn't exist?><?php 
+ 19/11/08 17:56:41 Erro na SQL  select * from i1733936e_xt_monitor_md_module where md_11_include=1  Error: Table '111a.i1733936e_xt_monitor_md_module' doesn't exist?><?php 
+ 19/11/08 18:01:17 Erro na SQL  select * from i1733936e_xt_monitor_md_module where md_11_include=1  Error: Table '111a.i1733936e_xt_monitor_md_module' doesn't exist?><?php 
+ 19/11/08 18:04:36 Erro na SQL  select * from i1733936e_xt_monitor_md_module where md_11_include=1  Error: Table '111a.i1733936e_xt_monitor_md_module' doesn't exist?><?php 
+ 19/11/08 18:11:41 Erro na SQL  select * from i1733936e_xt_monitor_md_module where md_11_include=1  Error: Table '111a.i1733936e_xt_monitor_md_module' doesn't exist?><?php 
+ 19/11/08 18:13:14 Erro na SQL  select * from i1733936e_xt_monitor_md_module where md_11_include=1  Error: Table '111a.i1733936e_xt_monitor_md_module' doesn't exist?><?php 
+ 19/11/08 18:15:23 Erro na SQL  select * from i1733936e_xt_monitor_md_module where md_11_include=1  Error: Table '111a.i1733936e_xt_monitor_md_module' doesn't exist?><?php 
+ 19/11/08 18:16:35 Erro na SQL  select * from i1733936e_xt_monitor_md_module where md_11_include=1  Error: Table '111a.i1733936e_xt_monitor_md_module' doesn't exist?><?php 
+ 19/11/08 18:23:41 Erro na SQL  select * from i1733936e_xt_monitor_md_module where md_11_include=1  Error: Table '111a.i1733936e_xt_monitor_md_module' doesn't exist?><?php 
+ 19/11/08 18:25:56 Erro na SQL  select * from i1733936e_xt_monitor_md_module where md_11_include=1  Error: Table '111a.i1733936e_xt_monitor_md_module' doesn't exist?><?php 
+ 19/11/08 18:28:06 Erro na SQL  select * from i1733936e_xt_monitor_md_module where md_11_include=1  Error: Table '111a.i1733936e_xt_monitor_md_module' doesn't exist?><?php 
+ 19/11/08 18:28:54 Erro na SQL  select * from i1733936e_xt_monitor_md_module where md_11_include=1  Error: Table '111a.i1733936e_xt_monitor_md_module' doesn't exist?><?php 
+ 19/11/08 18:28:59 Erro na SQL  select * from i1733936e_xt_monitor_md_module where md_11_include=1  Error: Table '111a.i1733936e_xt_monitor_md_module' doesn't exist?>
